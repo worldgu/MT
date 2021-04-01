@@ -1,0 +1,27 @@
+
+spring:
+  application:
+    name: config-center
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/worldgu/Config-Center.git
+      label: master
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7900/eureka/
+server:
+  port: 9999
+management:
+  endpoints:
+    web:
+      exposure:
+        include: *
+
