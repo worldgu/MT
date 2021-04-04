@@ -5,124 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a76bf9ae-eb40-44c2-8cb2-9109f6409f1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Decorator/BaseIronManSuit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Decorator/FireDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Decorator/LaserDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Decorator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Decorator/Mark1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Facade/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Iterator/BaseList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Iterator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Iterator/MyIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Iterator/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Memento/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Memento/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Visitor/CPU.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Visitor/Compute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Visitor/ComputePart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Visitor/ComputeStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Visitor/Comsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Visitor/KeyBorad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Visitor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Visitor/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/Visitor/Visitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/adapter/clazz/AImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/adapter/clazz/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/adapter/clazz/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/adapter/clazz/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/adapter/inter/AImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/adapter/inter/Adapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/adapter/inter/InterfaceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/adapter/inter/InterfaceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/adapter/inter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/bridge/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/bridge/Huawei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/bridge/IPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/bridge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/bridge/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/bridge/WangZhe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/bridge/YinYangShi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/builder/Compute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/builder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/chainOfResponsibility/Filter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/chainOfResponsibility/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/chainOfResponsibility/PermissionFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/chainOfResponsibility/UserFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/command/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/command/Jarvis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/command/Mic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/command/TonyStark.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/command/WakeUpCommand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/composite/AbstractTreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/composite/BranchNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/composite/LeafNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/composite/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_01/AppleCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_01/BaseCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_01/ComputeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_01/LenovoCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_02/AppleCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_02/AppleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_02/BaseCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_02/BaseComputeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_02/ComputeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_02/LenovoCompute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_02/LenovoComputeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_02/LenovoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_03/BaseMovieFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_03/Clown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_03/DCMovieFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_03/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_03/IronMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_03/IronManSuperPower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_03/MarvelMovieFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_03/SuperMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_03/SuperManSuperPower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_03/SuperPower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/factories/d_03/Wicked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/flyWeight/flyWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/mediator/Mediator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/observer/AbstractEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/observer/IronMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/observer/Jarvis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/observer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/observer/PhoneCallEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/observer/PhoneCallEventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/observer/WakeupEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/observer/WakeupEventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/prototype/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/prototype/Prototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/prototype/Prototype2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/prototype/Prototype3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/proxy/dynamic/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/proxy/dynamic/cg/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/proxy/dynamic/cg/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/proxy/dynamic/cg/ManInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/proxy/dynamic/jdkProxy/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/proxy/dynamic/jdkProxy/HumanInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/proxy/dynamic/jdkProxy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/proxy/dynamic/jdkProxy/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/proxy/stati/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/proxy/stati/HumanProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/proxy/stati/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/proxy/stati/Man.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/state/Audit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/state/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/state/Fail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/state/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/state/Pass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/strategy/IStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/strategy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/strategy/StrategyImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/strategy/StrategyImple1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/templateMethod/AbstractTemplateMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/templateMethod/DefaultTemplateMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/designpatters/src/main/java/com/zero/templateMethod/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_code/src/main/java/com/zero/yunke/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_code/src/main/java/com/zero/yunke/Test_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_code/src/main/java/com/zero/yunke/Test_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_code/src/main/java/com/zero/yunke/Test_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_code/src/main/java/com/zero/yunke/简答题.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_code/src/main/java/com/zero/zhongke/add_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_code/src/main/java/com/zero/zhongke/sql.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -144,6 +33,7 @@
     <ignored path="$PROJECT_DIR$/config-client/target/" />
     <ignored path="$PROJECT_DIR$/webflux/target/" />
     <ignored path="$PROJECT_DIR$/designpatters/target/" />
+    <ignored path="$PROJECT_DIR$/interview_code/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +51,13 @@
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/interview_code/src/main/java/com/zero/zhongke/sql.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -270,9 +166,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-18" />
-    <option name="y" value="189" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="853" />
+    <option name="y" value="70" />
     <option name="width" value="1861" />
     <option name="height" value="1096" />
   </component>
@@ -288,6 +184,51 @@
               <item name="MT" type="b2602c69:ProjectViewProjectNode" />
               <item name="MT" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MT" type="462c0819:PsiDirectoryNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MT" type="462c0819:PsiDirectoryNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MT" type="462c0819:PsiDirectoryNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MT" type="462c0819:PsiDirectoryNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MT" type="462c0819:PsiDirectoryNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zero" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MT" type="462c0819:PsiDirectoryNode" />
+              <item name="interview_code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zero" type="462c0819:PsiDirectoryNode" />
+              <item name="zhongke" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -302,7 +243,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/designpatters/src/main/java/com/zero" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/interview_code/src/main/java/com/zero" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -437,6 +378,13 @@
     <configuration name="EurekaProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="eureka-provider" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.mt.eurekaprovider.EurekaProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterviewCodeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="interview_code" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zero.interview_code.InterviewCodeApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -612,6 +560,7 @@
       <item itemvalue="Spring Boot.WebfluxApplication" />
       <item itemvalue="Spring Boot.DesignpattersApplication" />
       <item itemvalue="Tomcat Server.Unnamed" />
+      <item itemvalue="Spring Boot.InterviewCodeApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -638,17 +587,17 @@
       <workItem from="1617246268520" duration="591000" />
       <workItem from="1617277482331" duration="1593000" />
       <workItem from="1617338141560" duration="1339000" />
-      <workItem from="1617501099323" duration="591000" />
+      <workItem from="1617501099323" duration="1974000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64320000" />
+    <option name="totallyTimeSpent" value="65703000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1861" height="1096" extended-state="6" />
+    <frame x="853" y="70" width="1861" height="1096" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49822694" visible="true" weight="0.20099944" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49822694" visible="true" weight="0.14436424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -760,16 +709,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/user-api/src/main/java/com/mt/userapi/Instance/UserApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="31" column="29" lean-forward="true" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/user-consumer/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="633">
@@ -1189,6 +1128,9 @@
           <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interview_code/src/main/java/com/zero/zhongke/sql.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
