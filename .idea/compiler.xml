@@ -7,20 +7,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="user-api" />
         <module name="interview_code" />
+        <module name="config-client" />
         <module name="juc" />
         <module name="designpatters" />
         <module name="MT" />
-        <module name="admin-service" />
+        <module name="lock_demo" />
+        <module name="eureka-serivce" />
+        <module name="user-api" />
         <module name="user-provider" />
         <module name="config-center" />
+        <module name="admin-service" />
         <module name="eureka-provider" />
-        <module name="mian" />
-        <module name="config-client" />
         <module name="webflux" />
         <module name="user-consumer" />
-        <module name="eureka-serivce" />
+        <module name="herostory" />
+        <module name="mian" />
         <module name="java" />
         <module name="eureka-consumer" />
       </profile>
@@ -38,9 +40,11 @@
       <module name="eureka-consumer" options="-parameters" />
       <module name="eureka-provider" options="-parameters" />
       <module name="eureka-serivce" options="-parameters" />
+      <module name="herostory" options="-parameters" />
       <module name="interview_code" options="-parameters" />
       <module name="java" options="-parameters" />
       <module name="juc" options="-parameters" />
+      <module name="lock_demo" options="-parameters" />
       <module name="mian" options="-parameters" />
       <module name="user-api" options="-parameters" />
       <module name="user-consumer" options="-parameters" />
