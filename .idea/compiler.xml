@@ -20,6 +20,7 @@
         <module name="webflux" />
         <module name="user-consumer" />
         <module name="eureka-serivce" />
+        <module name="java" />
         <module name="eureka-consumer" />
       </profile>
     </annotationProcessing>
@@ -37,6 +38,7 @@
       <module name="eureka-provider" options="-parameters" />
       <module name="eureka-serivce" options="-parameters" />
       <module name="interview_code" options="-parameters" />
+      <module name="java" options="-parameters" />
       <module name="mian" options="-parameters" />
       <module name="user-api" options="-parameters" />
       <module name="user-consumer" options="-parameters" />
