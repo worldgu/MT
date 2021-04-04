@@ -7,18 +7,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="admin-service" />
         <module name="eureka-serivce" />
         <module name="mian" />
-        <module name="user-consumer" />
-        <module name="config-center" />
-        <module name="user-provider" />
-        <module name="user-api" />
-        <module name="eureka-provider" />
         <module name="MT" />
+        <module name="user-provider" />
         <module name="eureka-consumer" />
-        <module name="config-client" />
-        <module name="admin-service" />
+        <module name="eureka-provider" />
         <module name="webflux" />
+        <module name="designpatters" />
+        <module name="user-api" />
+        <module name="config-client" />
+        <module name="config-center" />
+        <module name="user-consumer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -30,6 +31,7 @@
       <module name="admin-service" options="-parameters" />
       <module name="config-center" options="-parameters" />
       <module name="config-client" options="-parameters" />
+      <module name="designpatters" options="-parameters" />
       <module name="eureka-consumer" options="-parameters" />
       <module name="eureka-provider" options="-parameters" />
       <module name="eureka-serivce" options="-parameters" />
