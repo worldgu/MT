@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="user-api" />
         <module name="interview_code" />
+        <module name="juc" />
         <module name="designpatters" />
         <module name="MT" />
         <module name="admin-service" />
@@ -39,6 +40,7 @@
       <module name="eureka-serivce" options="-parameters" />
       <module name="interview_code" options="-parameters" />
       <module name="java" options="-parameters" />
+      <module name="juc" options="-parameters" />
       <module name="mian" options="-parameters" />
       <module name="user-api" options="-parameters" />
       <module name="user-consumer" options="-parameters" />

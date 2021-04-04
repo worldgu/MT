@@ -5,27 +5,154 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a76bf9ae-eb40-44c2-8cb2-9109f6409f1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/com/zero/circle/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/com/zero/circle/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/com/zero/circle/TestCylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/com/zero/circle/circleReadME.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/com/zero/jdbc/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/com/zero/jdbc/TestJdbc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/com/zero/lambda/L01_Lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/com/zero/object/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/com/zero/object/UserEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/com/zero/single/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/com/zero/socket/LoginClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/com/zero/socket/LoginServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/com/zero/socket/StringCliient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/com/zero/socket/StringServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/com/zero/socket/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/com/zero/string/string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/com/zero/thread/ThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v1/LongEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v1/LongEventFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v1/LongEventHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v1/LongEventProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v2/LongEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v2/LongEventFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v2/LongEventHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v2/LongEventProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v2/readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v3/LongEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v3/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v4/LongEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v4/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_000/T01_WhatisThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_000/T02_HowToCreateThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_000/T03_Sleep_YieId_Join.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_000/T04_ThreadState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_001/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_002/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_003/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_003/T1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_004/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_005/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_006/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_007/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_008/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_009/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_010/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_011/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_011_01/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_012_Volatile/T01_HelloVolatile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_012_Volatile/T02_VolatileRefernce1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_012_Volatile/T03_VolatileReference2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_012_Volatile/T04_VolatileNotSync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_012_Volatile/T05_VolatileVsSync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_016_LockOptimization/FineCoarseLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_017_MoreAboutSync/DoNotLockString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_017_MoreAboutSync/SyncSameObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_018_00_AtomicXXX/T01_AtomicInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_018_00_AtomicXXX/T02_AtomicVsSyncVsLongAdder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_018_00_AtomicXXX/T03_SyncVsLongAdder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_018_01_Unsafe/HelloUnsafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020/T01_ReentrantLock1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020/T02_ReentrantLock2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020/T03_ReentrantLock3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020/T04_ReentrantLock4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020/T05_ReentrantLock5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020/T06_TestCountDownLatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020/T07_TestCyclicBarrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020/T08_TestPhaser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020/T09_TestPhaser2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020/T10_TestReadWriteLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020/T11_TestSemaphore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020/T12_TestExchanger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020/T13_TestLockSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020_01_Interview/T01_WithoutVolatile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020_01_Interview/T02_WithVolatile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020_01_Interview/T03_notifyHoldingLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020_01_Interview/T04_NotifyFreeLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020_01_Interview/T05_CountDownLatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020_01_Interview/T06_LockSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020_01_Interview/T07_LockSupport_WithoutSleep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_020_01_Interview/T08_Semaphore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_021_01_interview/MyContainer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_021_01_interview/MyContainer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_021_02_AQS/MLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_021_02_AQS/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_021_02_AQS/Sync.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_021_02_AQS/TestReentrantLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_021_03_VarHandle/T01_HelloVarHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_022_RefTypeAndThreadLocal/M.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_022_RefTypeAndThreadLocal/T01_NormalReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_022_RefTypeAndThreadLocal/T02_SoftReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_022_RefTypeAndThreadLocal/T03_WeakReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_022_RefTypeAndThreadLocal/T04_PhantomReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_022_RefTypeAndThreadLocal/ThreadLocal1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_022_RefTypeAndThreadLocal/ThreadLocal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_023/Singletion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_023_01_Containers/HelloQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_023_01_Containers/T01_HelloArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_023_01_Containers/T02_CollectionListSetQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_023_02_FromHashtableToCHM/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_023_02_FromHashtableToCHM/T01_TestHashtable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_023_02_FromHashtableToCHM/T02_TestHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_023_02_FromHashtableToCHM/T03_TestSynchronizedHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_023_02_FromHashtableToCHM/T04_TestConcurrentHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_024_FromVectorToQueue/TicketSeller1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_024_FromVectorToQueue/TicketSeller2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_024_FromVectorToQueue/TicketSeller3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_024_FromVectorToQueue/TicketSeller4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_024_FromVectorToQueue/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_025/T01_ConcurrentMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_025/T02_CopyOnWriteList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_025/T03_SynchronizedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_025/T04_ConcurrentQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_025/T05_LinkedBlokingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_025/T06_ArrayBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_025/T07_01_PriorityQueque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_025/T07_DelayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_025/T08_SynchronusQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_025/T09_TransferQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_025/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_00_interview/A1B1C3/T01_00_Question.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_00_interview/A1B1C3/T02_00_LockSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_00_interview/A1B1C3/T03_00_cas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_00_interview/A1B1C3/T04_00_BlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_00_interview/A1B1C3/T05_00_AtomicInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_00_interview/A1B1C3/T06_00_sync_wait_notify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_00_interview/A1B1C3/T07_00_sync_wait_notify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_00_interview/A1B1C3/T08_00_lock_condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_00_interview/A1B1C3/T09_00_lock_condition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_00_interview/A1B1C3/T10_00_PipedStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_00_interview/A1B1C3/T12_00_Exchanger_Not_Work.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_00_interview/A1B1C3/T13_TransferQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_00_interview/A1B1C3/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/Readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/T01_MyExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/T02_ExecutorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/T03_Callable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/T04_Eeecutors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/T05_00_HelloThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/T05_ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/T06_00_Future.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/T06_01_CompletableFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/T07_SingleThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/T08_CachedPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/T09_FixedThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/T10_SchedulePool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/T11_WorkStealingPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/T12_ForkJoinPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/T13_ParallelStreamAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/T14_MyRejectedHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_026_01_ThreadPool/Readme/ThreadPoolExecutor源码解析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_027_future_to_loom/T01_Future.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_027_future_to_loom/T02_ListenableFuture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_028_FalseSharing/T01_CacheLinePadding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_028_FalseSharing/T02_CacheLinePadding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_029_WriteCombining/WriteCombining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/juc/src/main/java/思考题.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -45,6 +172,7 @@
     <ignored path="$PROJECT_DIR$/designpatters/target/" />
     <ignored path="$PROJECT_DIR$/interview_code/target/" />
     <ignored path="$PROJECT_DIR$/java/target/" />
+    <ignored path="$PROJECT_DIR$/juc/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,19 +192,87 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interview_code/src/main/java/com/zero/zhongke/sql.txt">
+        <entry file="file://$PROJECT_DIR$/java/src/main/java/com/zero/socket/LoginServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="133">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/src/main/java/com/zero/circle/Circle.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="342">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v1/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v1/LongEvent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juc/src/main/java/思考题.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_021_03_VarHandle/T01_HelloVarHandle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juc/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v1/LongEventFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v1/LongEventHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v1/LongEventProducer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -103,9 +299,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/eureka-consumer/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/eureka-consumer/src/main/java/com/mt/eurekaconsumer/interceptor/LoggingClientHttpRequestInterceptor.java" />
-        <option value="$PROJECT_DIR$/eureka-serivce/src/main/java/com/mt/eurekaserivce/listen/TestEvent.java" />
         <option value="$PROJECT_DIR$/eureka-consumer/src/main/java/com/mt/eurekaconsumer/controller/MainOneController.java" />
         <option value="$PROJECT_DIR$/eureka-consumer/src/main/java/com/mt/eurekaconsumer/entity/ResponseEntity.java" />
         <option value="$PROJECT_DIR$/eureka-consumer/src/main/java/com/mt/eurekaconsumer/controller/MainTwoController.java" />
@@ -154,6 +347,9 @@
         <option value="$PROJECT_DIR$/webflux/pom.xml" />
         <option value="$PROJECT_DIR$/designpatters/src/main/java/com/zero/DesignpattersApplication.java" />
         <option value="$PROJECT_DIR$/designpatters/pom.xml" />
+        <option value="$PROJECT_DIR$/java/pom.xml" />
+        <option value="$PROJECT_DIR$/juc/pom.xml" />
+        <option value="$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_021_03_VarHandle/T01_HelloVarHandle.java" />
       </list>
     </option>
   </component>
@@ -191,8 +387,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="853" />
-    <option name="y" value="70" />
+    <option name="x" value="374" />
+    <option name="y" value="33" />
     <option name="width" value="1861" />
     <option name="height" value="1096" />
   </component>
@@ -214,47 +410,68 @@
             <path>
               <item name="MT" type="b2602c69:ProjectViewProjectNode" />
               <item name="MT" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MT" type="b2602c69:ProjectViewProjectNode" />
               <item name="MT" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MT" type="b2602c69:ProjectViewProjectNode" />
               <item name="MT" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MT" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MT" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MT" type="b2602c69:ProjectViewProjectNode" />
               <item name="MT" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="zero" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MT" type="b2602c69:ProjectViewProjectNode" />
               <item name="MT" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="zero" type="462c0819:PsiDirectoryNode" />
-              <item name="circle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MT" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zero" type="462c0819:PsiDirectoryNode" />
+              <item name="disruptor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MT" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zero" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MT" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zero" type="462c0819:PsiDirectoryNode" />
+              <item name="juc" type="462c0819:PsiDirectoryNode" />
+              <item name="c_021_03_VarHandle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MT" type="b2602c69:ProjectViewProjectNode" />
@@ -281,7 +498,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java/src/main/java/com/zero" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/juc/src/main/java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -303,6 +520,8 @@
       <recent name="com.mt.eurekaconsumer.controller" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\CodeSpace\MT\juc\src\main\java" />
+      <recent name="H:\CodeSpace\MT\juc\src\main\java\com\zero" />
       <recent name="H:\CodeSpace\MT\java\src\main\java\com\zero" />
       <recent name="H:\CodeSpace\MT\interview_code\src\main\java\com\zero" />
       <recent name="H:\CodeSpace\MT\designpatters\src\main\java\com\zero" />
@@ -432,6 +651,13 @@
     <configuration name="JavaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="java" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.zero.java.JavaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JucApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="juc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zero.juc.JucApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -609,6 +835,7 @@
       <item itemvalue="Tomcat Server.Unnamed" />
       <item itemvalue="Spring Boot.InterviewCodeApplication" />
       <item itemvalue="Spring Boot.JavaApplication" />
+      <item itemvalue="Spring Boot.JucApplication" />
     </list>
     <recent_temporary>
       <list>
@@ -635,15 +862,16 @@
       <workItem from="1617246268520" duration="591000" />
       <workItem from="1617277482331" duration="1593000" />
       <workItem from="1617338141560" duration="1339000" />
-      <workItem from="1617501099323" duration="2222000" />
+      <workItem from="1617501099323" duration="4962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65951000" />
+    <option name="totallyTimeSpent" value="68691000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="853" y="70" width="1861" height="1096" extended-state="0" />
+    <frame x="374" y="33" width="1861" height="1096" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49822694" visible="true" weight="0.14436424" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -757,129 +985,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/Programming software/Setting/java/jdk1.8.0_181/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="683" column="19" selection-start-line="683" selection-start-column="19" selection-end-line="683" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user-consumer/src/main/java/com/mt/userconsumer/UserConsumerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user-consumer/src/main/java/com/mt/userconsumer/interpter/HystrixTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="875">
-          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user-consumer/src/main/java/com/mt/userconsumer/instance/ConsumerApi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="36" column="47" selection-start-line="36" selection-start-column="47" selection-end-line="36" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user-consumer/src/main/java/com/mt/userconsumer/controller/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="34" column="23" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#815#816#0" expanded="true" />
-            <element signature="e#857#858#0" expanded="true" />
-            <element signature="e#883#884#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18-sources.jar!/com/netflix/hystrix/contrib/javanica/command/MethodExecutionAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="126" column="29" selection-start-line="126" selection-start-column="29" selection-end-line="126" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user-consumer/src/main/java/com/mt/userconsumer/interpter/UserProviderBack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-185">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#488#489#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#867#868#0" expanded="true" />
-            <element signature="e#976#977#0" expanded="true" />
-            <element signature="e#1085#1086#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user-consumer/src/main/java/com/mt/userconsumer/service/RestService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="30" selection-start-line="30" selection-end-line="31" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user-provider/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="23" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user-consumer/src/main/java/com/mt/userconsumer/interpter/UserProviderBackFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#727#728#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#847#848#0" expanded="true" />
-            <element signature="e#890#891#0" expanded="true" />
-            <element signature="e#974#975#0" expanded="true" />
-            <element signature="e#1017#1018#0" expanded="true" />
-            <element signature="e#1115#1116#0" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
-            <element signature="e#1256#1257#0" expanded="true" />
-            <element signature="e#1299#1300#0" expanded="true" />
-            <element signature="e#1397#1398#0" expanded="true" />
-            <element signature="e#1440#1441#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zuul-service-todo/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="53" column="11" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/zuul-service-todo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -1184,6 +1289,79 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/java/src/main/java/com/zero/socket/LoginServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/juc.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="46" lean-forward="true" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v1/LongEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v1/LongEventFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v1/LongEventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v1/LongEventProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/main/java/com/zero/disruptor/v1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/main/java/思考题.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/juc/src/main/java/com/zero/juc/c_021_03_VarHandle/T01_HelloVarHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -1235,11 +1413,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>user-provider</last-edited>
+          <last-edited>MT</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
