@@ -22,7 +22,7 @@ import io.netty.handler.codec.http.websocketx.WebSocketServerProtocolHandler;
 public class ServerMain {
 
     public static void main(String[] args) {
-        EventLoopGroup bossGroup = new NioEventLoopGroup();
+        EventLoopGroup bossGroup = new NioEventLoopGroup();       //
         EventLoopGroup workerGroup = new NioEventLoopGroup();
 
         ServerBootstrap b = new ServerBootstrap();
