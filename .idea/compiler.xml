@@ -13,16 +13,16 @@
         <module name="designpatters" />
         <module name="MT" />
         <module name="lock_demo" />
-        <module name="eureka-serivce" />
         <module name="user-api" />
         <module name="user-provider" />
         <module name="config-center" />
         <module name="admin-service" />
         <module name="eureka-provider" />
+        <module name="mian" />
         <module name="webflux" />
         <module name="user-consumer" />
         <module name="herostory" />
-        <module name="mian" />
+        <module name="eureka-serivce" />
         <module name="java" />
         <module name="eureka-consumer" />
       </profile>
