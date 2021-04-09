@@ -19,6 +19,7 @@
         <module name="admin-service" />
         <module name="eureka-provider" />
         <module name="Netty_01" />
+        <module name="h3" />
         <module name="webflux" />
         <module name="user-consumer" />
         <module name="herostory" />
@@ -37,6 +38,7 @@
       <module name="eureka-consumer" options="-parameters" />
       <module name="eureka-provider" options="-parameters" />
       <module name="eureka-serivce" options="-parameters" />
+      <module name="h3" options="-Xlint:unchecked -h H:\CodeSpace\MT\h3-java/src/main/c/h3-java/src" />
       <module name="herostory" options="-parameters" />
       <module name="interview_code" options="-parameters" />
       <module name="java" options="-parameters" />
