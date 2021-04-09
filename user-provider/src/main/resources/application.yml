@@ -7,20 +7,20 @@ eureka:
       z2: http://localhost:7921/eureka/,http://localhost:7922/eureka/
     region: bj
     availability-zones:
-      bj: z1
+      bj: z1X
     prefer-same-zone-eureka: true
     #,http://localhost:7901/eureka/,http://localhost:7902/eureka/
-    # ¿ÉÒÔÉÏ±¨ÕæÊµµÄ½¡¿µ×´Ì¬
+    # ï¿½ï¿½ï¿½ï¿½ï¿½Ï±ï¿½ï¿½ï¿½Êµï¿½Ä½ï¿½ï¿½ï¿½×´Ì¬
 #    healthcheck:
 #      enabled: true
 
   instance:
-    #·şÎñË¢ĞÂÊ±¼äÅäÖÃ£¬Ã¿¸ôÕâ¸öÊ±¼ä»áÖ÷¶¯ĞÄÌøÒ»´Î
+    #ï¿½ï¿½ï¿½ï¿½Ë¢ï¿½ï¿½Ê±ï¿½ï¿½ï¿½ï¿½ï¿½Ã£ï¿½Ã¿ï¿½ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½
     lease-renewal-interval-in-seconds: 1
-    #·şÎñ¹ıÆÚÊ±¼äÅäÖÃ,³¬¹ıÕâ¸öÊ±¼äÃ»ÓĞ½ÓÊÕµ½ĞÄÌøEurekaServer¾Í»á½«Õâ¸öÊµÀıÌŞ³ı
+    #ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½,ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ê±ï¿½ï¿½Ã»ï¿½Ğ½ï¿½ï¿½Õµï¿½ï¿½ï¿½ï¿½ï¿½EurekaServerï¿½Í»á½«ï¿½ï¿½ï¿½Êµï¿½ï¿½ï¿½Ş³ï¿½
     lease-expiration-duration-in-seconds: 1
     #    hostname: localhost
-    #true±íÊ¾£¬½«×Ô¼ºµÄip×¢²áµ½Eureka ServerÉÏ£¬²»ÅäÖÃ»òfalse±íÊ¾½«ËùÔÚ²Ù×÷ÏµÍ³hostname×¢²áµ½eureka serverÉÏ¡£
+    #trueï¿½ï¿½Ê¾ï¿½ï¿½ï¿½ï¿½ï¿½Ô¼ï¿½ï¿½ï¿½ip×¢ï¿½áµ½Eureka Serverï¿½Ï£ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ã»ï¿½falseï¿½ï¿½Ê¾ï¿½ï¿½ï¿½ï¿½ï¿½Ú²ï¿½ï¿½ï¿½ÏµÍ³hostname×¢ï¿½áµ½eureka serverï¿½Ï¡ï¿½
     #    prefer-ip-address: true
     #    ip-address: 127.0.0.1
     metadata-map:
@@ -42,7 +42,7 @@ zone:
 #        include: *
 #  endpoint:
 #    shutdown:
-#      # ¿ÉÒÔÔ¶³Ì¹Ø±Õ·şÎñ½Úµã
+#      # ï¿½ï¿½ï¿½ï¿½Ô¶ï¿½Ì¹Ø±Õ·ï¿½ï¿½ï¿½Úµï¿½
 #      enabled: true
 
 ---
